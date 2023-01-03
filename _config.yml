@@ -3,7 +3,7 @@ title: FunnyUI
 subtitle: FunnyUI.com - This domain is for sale!
 email: funnyui-com+domains@amalgamaton.ai
 description: BUY this domain name and website right now! Contact us below. Enjoy. ;)
-baseurl: "/funnyuis" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 3210 Minimum Road
